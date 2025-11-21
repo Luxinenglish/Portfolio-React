@@ -43,7 +43,7 @@ export default function HeroSection({ mousePos }) {
                         </h1>
 
                         <p className="text-base md:text-xl text-purple-300 mb-6 text-center">
-                            Singer • Gamer • Tech Worker
+                            Singer • Gamer • IT Worker
                         </p>
 
                         <div className="flex flex-wrap gap-2 md:gap-3 justify-center mb-6">
