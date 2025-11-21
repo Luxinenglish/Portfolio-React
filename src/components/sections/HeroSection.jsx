@@ -39,11 +39,11 @@ export default function HeroSection({ mousePos }) {
                         </div>
 
                         <h1 className="text-4xl md:text-6xl font-bold mb-3 glow-text text-center">
-                            Asuna Cracotte
+                            Asuna Cracotte™
                         </h1>
 
                         <p className="text-base md:text-xl text-purple-300 mb-6 text-center">
-                            Singer • Gamer • Tech Enthusiast
+                            Singer • Gamer • Tech Worker
                         </p>
 
                         <div className="flex flex-wrap gap-2 md:gap-3 justify-center mb-6">
@@ -61,17 +61,18 @@ export default function HeroSection({ mousePos }) {
                             </div>
                             <div className="flex items-center gap-2 px-3 py-2 rounded-full bg-purple-500/20 backdrop-blur text-sm">
                                 <Code className="w-4 h-4 text-purple-400" />
-                                <span>Tech</span>
+                                <span>IT</span>
                             </div>
                         </div>
 
                         <div className="flex justify-center">
-
-                            href="#contact"
-                            className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-full font-semibold transition-all hover:scale-105 inline-block animate-glow"
-                            >
-                            Get in Touch
+                            <a
+                                href="#about"
+                                className="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-full font-semibold transition-all hover:scale-105 inline-block animate-glow">
+                                Get in Touch
+                            </a>
                         </div>
+
                     </div>
                 </div>
             </div>
