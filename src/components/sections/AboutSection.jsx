@@ -19,7 +19,7 @@ export default function AboutSection() {
                         <div className="p-4 md:p-6 rounded-2xl bg-purple-500/10 border border-purple-500/20">
                             <Music className="w-7 h-7 md:w-8 md:h-8 text-purple-400 mb-3" />
                             <h3 className="text-lg md:text-xl font-semibold mb-2">Music Lover</h3>
-                            <p className="text-sm md:text-base text-gray-400">Amateur singer and cover creator</p>
+                            <p className="text-sm md:text-base text-gray-400">Enthusiastic singer and cover creator</p>
                         </div>
 
                         <div className="p-4 md:p-6 rounded-2xl bg-purple-500/10 border border-purple-500/20">
